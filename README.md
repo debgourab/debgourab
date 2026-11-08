@@ -1,114 +1,139 @@
-<div align="center">
-  <h1>💫 Hi 👋, I'm Deb Gourab Biswas</h1>
-  <h3>Full Stack (MERN) Developer | React.js, Node.js, Express.js & MongoDB | Building Responsive, Scalable Web Applications</h3>
-
-  <p align="center">
-    <a href="https://debgourab-biswas-portfolio.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/debg" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/debgourab" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="mailto:debgourabbiswas@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.instagram.com/deb.gourab_biswas/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.facebook.com/devgourab.bishwas" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=debgourab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-### 👨‍💻 About Me
-- 💼 **Current Role:** Full Stack Developer Intern building responsive e-commerce platforms and backend integrations
-- 🎓 **Education:** Master of Computer Applications (MCA) & Bachelor of Computer Applications (BCA)
-- 🌱 **Currently Exploring:** Advanced MERN Architecture, WordPress Customization & PHP/Laravel
-- 💻 **Ask me about:** React.js, Redux Toolkit, Node.js, Express.js, RESTful APIs, MongoDB, and UI/UX Design
-- 📫 **Reach me at:** [debgourabbiswas@gmail.com](mailto:debgourabbiswas@gmail.com)
-- ⚡ **Beyond Coding:** Avid landscape & street photographer 📸 and acoustic guitarist 🎸
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend Development**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend, Database & CMS**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-**Tools & Deployment**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description | Links |
-| :--- | :--- | :--- | :---: |
-| **🎬 YouTube Clone** | React, Redux Toolkit, Node.js, Express, MongoDB, JWT | Full-stack video-sharing platform with user authentication, channel management, and video playback. | [Live Demo](https://youtube-mern-deb.vercel.app) • [GitHub](https://github.com/debgourab/Youtube-mern) |
-| **🛒 ShoppyGlobe** | React, Redux Toolkit, Node.js, Express, MongoDB | Full-stack e-commerce application featuring dynamic product catalogs, cart state management, and REST APIs. | [Live Demo](https://shoppyglobe-deb.vercel.app) • [GitHub](https://github.com/debgourab/shoppyglobe-ui) |
-| **💸 ExpenseFlow** | Node.js, Express.js, MongoDB, JWT, JavaScript | Full-stack expense tracker with secure authentication, real-time analytics, and transaction history. | [Live Demo](https://expensetracker-deb.vercel.app) • [GitHub](https://github.com/debgourab/expense-tracker-client) |
-| **🛠️ Worker Hub** | JavaScript (ES6+), HTML5, CSS3 | Responsive local services marketplace connecting users with local professionals cleanly and quickly. | [Live Demo](https://workerhub-debgourab.vercel.app) • [GitHub](https://github.com/debgourab/Worker-Hub) |
-
----
-
-### 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debgourab&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+
+# 👋 Hi, I'm Deb Gourab Biswas
+
+### Full Stack Developer | MERN Stack Developer | Frontend Developer
+
+Passionate about building responsive, user-friendly, and scalable web applications using modern web technologies.
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=debgourab&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=debgourab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<a href="https://debgourab-biswas-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/debg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/debgourab" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:debgourabbiswas@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=debgourab&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=debgourab&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+<img src="https://komarev.com/ghpvc/?username=debgourab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
 
-<!-- Snake Animation -->
+## 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with a background in Computer Applications and a strong interest in developing modern web applications.
+
+- 💼 **Career Goal:** Actively seeking opportunities as a Full Stack, MERN Stack, or Frontend Developer.
+- 🎓 **Education:** Master of Computer Applications (MCA) and Bachelor of Computer Applications (BCA).
+- 💻 **Specialization:** MERN Stack Development and Frontend Development.
+- 🌱 **Currently Learning:** Advanced React.js, MERN Stack Architecture, WordPress, PHP, and Laravel.
+- 🚀 **Professional Growth:** Improving problem-solving skills, writing clean code, and exploring modern development practices.
+- 📫 **Email:** debgourabbiswas@gmail.com
+- ⚡ **Beyond Coding:** Passionate about landscape photography, street photography, and playing acoustic guitar.
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=debgourab&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=debgourab&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=debgourab&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+
 </div>
+
+---
+
+## 🎯 My Developer Mindset
+
+- 💡 Build applications that solve real-world problems.
+- 🧹 Write clean, readable, and maintainable code.
+- 📚 Learn something new and improve every day.
+- 🧠 Strengthen problem-solving and logical thinking.
+- 🚀 Keep exploring technologies and growing as a developer.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+**I'm actively looking for exciting career opportunities and collaborations.**
+
+Always open to learning, sharing ideas, and connecting with fellow developers.
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<a href="https://www.linkedin.com/in/debg">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:debgourabbiswas@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my GitHub profile! Happy Coding! 💻**
+
 </div>
